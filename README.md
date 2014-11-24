@@ -14,14 +14,15 @@ Opensource Web Conferencing and Virtual Classroom software
 - Flash
 - ActionScript 2 & 3
 
+--
 --------------------------------------------------
 
 Copyright © by respective authors (see below). All rights reserved.
 
 ####Authors/Developers
-Elton Jain  - elton@welbour.com
+[Elton Jain](http://eltonjain.com)  - elton@welbour.com
 
-
+--
 --------------------------------------------------
 
 Code files: 
@@ -30,6 +31,7 @@ Project code divided in two parts, PHP server side, and Red5 streaming side
 * **_php** folder : PHP code to be placed in the AMP server (Apache, Mysql, PHP) web directory.
 * **_red5** folder : Red5 code to be placed in the Red5 server path.
 
+--
 --------------------------------------------------
 
 #### Screenshots:
@@ -55,10 +57,12 @@ The start page of a registered user, with options to create new room, or check t
 ![Deliti whiteboard](https://github.com/scazzy/Deliti/blob/master/screenshots/invite_participants.jpg "Deliti")
 Invite participants
 
---------------------------------------------------
+--
 --------------------------------------------------
 
-#### This project was developed by @eltonjain in 2010, and is no longer supported. Though any doubts or questions can be asked in issues.
+#### This project was developed by [@eltonjain](https://twitter.com/eltonjain) in 2010, and is no longer supported. Though any doubts or questions can be asked in issues.
+
+--
 
 > Note:
 > - The PHP version shall be latest with respect to 2010, hence you might need to handle some depreciated methods if faced.
