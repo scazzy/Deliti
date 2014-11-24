@@ -18,8 +18,8 @@ Opensource Web Conferencing and Virtual Classroom software
 
 Copyright © by respective authors (see below). All rights reserved.
 
-Authors/Developers-
-Elton Jain - elton@welbour.com
+####Authors/Developers
+Elton Jain  - elton@welbour.com
 
 
 --------------------------------------------------
@@ -27,12 +27,14 @@ Elton Jain - elton@welbour.com
 Code files: 
 Project code divided in two parts, PHP server side, and Red5 streaming side
 
-PHP code to be placed in the AMP server (Apache, Mysql, PHP) web directory.
-Red5 code to be placed in the Red5 server path.
+* **_php** folder : PHP code to be placed in the AMP server (Apache, Mysql, PHP) web directory.
+* **_red5** folder : Red5 code to be placed in the Red5 server path.
 
 --------------------------------------------------
 
 This project was developed by @eltonjain in 2010.
 
-> Note: The PHP version shall be latest with respect to 2010, hence you might need to handle some depreciated methods if faced.
-> The developer might need some basic idea of how to use the Red5 server.
+> Note:
+> - The PHP version shall be latest with respect to 2010, hence you might need to handle some depreciated methods if faced.
+> - The developer might need some basic idea of how to use the Red5 server.
+> - Edit the configs according to your environment, database, and namespaces you create
