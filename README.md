@@ -14,6 +14,19 @@ Opensource Web Conferencing and Virtual Classroom software
 - Flash
 - ActionScript 2 & 3
 
+### Features:
+- Fully featured conference room (handles simultaneous multiple rooms)
+- Whiteboard (Real time writing)
+- Live audio and video broadcasting, with recording option
+- Participant Chat
+- Document sharing
+- Geolocation
+- Meeting notepad
+- Old meeting archives
+- Open meeting search
+- Guest registrations
+
+
 --
 --------------------------------------------------
 
