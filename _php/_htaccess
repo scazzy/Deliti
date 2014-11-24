@@ -1,0 +1,13 @@
+# -FrontPage-
+RewriteEngine on
+
+RewriteRule ^login-([a-zA-Z0-9_-]+)$ login.php?st=$1
+
+RewriteRule ^room/([a-zA-Z0-9_-]+)$ deskboard.php?roomkey=$1
+
+RewriteRule ^([a-zA-Z0-9_-]+)\.html$ $1.php
+RewriteRule ^([a-zA-Z0-9_-]+)$ $1.php
+
+
+
+
