@@ -4,7 +4,7 @@ Opensource Web Conferencing and Virtual Classroom software
 
 --------------------------------------------------
 
-PS ~ This is 4 year old code. Built in PHP 5.3. The code doesn't uses MVC structure or any framework.
+PS ~ This code was built in 2010. Built in PHP 5.3. The code doesn't use an MVC structure or any framework.
 Released with a thought of helping someone to know how a conferencing platform and its different technologies work together.
 Please read the NOTE at the end of this doc.
 I'd try to put a working demo of this online soon.
